@@ -1,1 +1,1 @@
-# Rico-CS-GO-Utils
+# Rico CS:GO Utilities
