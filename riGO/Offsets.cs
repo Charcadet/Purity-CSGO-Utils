@@ -8,7 +8,7 @@ namespace riGO
 {
     public static class Offsets
     {
-        // UPDATED OFFSETS AT: 4/23/2021
+        // UPDATED OFFSETS AT: 5/12/2021
         public static Int32 dwClientState = 0x589FE4;
         public static Int32 dwLocalPlayer = 0xD8D2CC;
         public static Int32 dwGlowObjectManager = 0x52ED6A8;
