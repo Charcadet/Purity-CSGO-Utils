@@ -1,3 +1,3 @@
 # Rico CS:GO Utilities
 
-Undetected for 6 months (as of 15/04/2021)
+Undetected for 7 months (as of 12/05/2021)
