@@ -1,5 +1,7 @@
 #  😇 Purity RiGO CS:GO Utils
+
 ~~Undetected for 7 months (as of 12/05/2021)~~
+
 As I quit playing CS:GO a long time ago & there is no reason for this to sit private, I have now decided to publicize this repository. As the line above suggests, this project was "*undetected*" for around 7 months. After that, I quit playing the game, and thus I have no idea how long it truly lasted. 
 
 ## Purity: RiGO External
